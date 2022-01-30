@@ -1,0 +1,57 @@
+/*@import "reset.css";*/
+
+.content {
+   color: darksalmon;
+}
+
+p {
+   color: goldenrod;
+}
+
+p span {
+   color: maroon;
+}
+
+.information > p {
+   color: orangered;
+}
+
+.item {
+   color: darkgreen;
+}
+
+.sub-item {
+   color: darkorange;
+}
+
+.text {
+   color: darkturquoise;
+}
+
+[class*="-specifications"] {
+   color: green;
+}
+
+.mix {
+   color: hotpink;
+}
+
+.specifications + p {
+   color: midnightblue;
+}
+
+.sound-specifications + p {
+   color: saddlebrown;
+}
+
+.German-powermetal ~ p {
+   color: yellow;
+}
+
+#section-1 {
+   color: chartreuse;
+}
+
+#section-1-2 {
+   color: firebrick;
+}
